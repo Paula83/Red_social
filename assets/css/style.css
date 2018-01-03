@@ -1,0 +1,29 @@
+*{
+	/**/
+	width: 100%;
+	padding: 0;
+	margin:0;
+}
+#pagina_principal h1{
+color:#9ACD32;
+}
+#logo{
+	background-image: url(../img/Huella.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width:30%;
+	height: 600px;
+	margin-top: 100px;
+}
+
+/*#pagina_principal {
+	background-image: url(../img/medio-ambiente.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width:50%;
+	height: 600px;
+	margin-top: 100px;
+}*/
+
